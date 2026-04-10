@@ -1,0 +1,22 @@
+{
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Zone1_Cloudy_Medium",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Zone1_Rain",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Zone2_Corrupted_Oasis",
+        "Weight": 100
+      }
+    ]
+  }
+}

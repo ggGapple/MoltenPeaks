@@ -1,0 +1,1527 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": -6,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -8,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "*Wood_Goldenwood_Fence_State_Definitions_Corner",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -7,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -6,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -5,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -4,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -4,
+      "name": "Wood_Goldenwood_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -3,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -3,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -3,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -2,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -2,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -2,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": -1,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": -1,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": -1,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -6,
+      "z": 0,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": -5,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -4,
+      "z": 0,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": -1,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Goldenwood_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Goldenwood_Beam",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Goldenwood_Beam"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -8,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -8,
+      "name": "Wood_Goldenwood_Fence"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -7,
+      "name": "Wood_Goldenwood_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -6,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -5,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -4,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -3,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Goldenwood_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Goldenwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -6,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -5,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -8,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "*Wood_Goldenwood_Fence_State_Definitions_Corner"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -8,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -7,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -7,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -6,
+      "name": "Wood_Goldenwood_Decorative",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -6,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -5,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -5,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -4,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -4,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -3,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -3,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -3,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -2,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -2,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -2,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": -1,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": -1,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": -1,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Goldenwood_Fence",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": 0,
+      "name": "Wood_Goldenwood_Stairs",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": -5,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": -4,
+      "z": 0,
+      "name": "Wood_Goldenwood_Stairs"
+    },
+    {
+      "x": 1,
+      "y": -3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Goldenwood_Beam",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Wood_Goldenwood_Beam"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Wood_Goldenwood_Planks"
+    }
+  ]
+}
